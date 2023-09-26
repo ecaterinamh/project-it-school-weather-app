@@ -4,7 +4,7 @@ Project 2 from my web development course @ IT School, including exercise solutio
 
 ## DEMO 
 
-The project is deployed on (https://it-school-weather-app.netlify.app/).
+The project is deployed on (https://project-it-school-weather-app.netlify.app/).
 
 ## Table of contents
 
