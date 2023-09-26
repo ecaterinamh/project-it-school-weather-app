@@ -54,8 +54,8 @@ The project is deployed on https://project-it-school-weather-app.netlify.app/.
 This is the first project created by using Bootstrap, JavaScript (ES6), DOM, APIs and localStorage and providing functionality to a web page.
 Concepts I have learned:
 - responsive design for desktop, tablet and mobile screens;
-- modularization and organization of the JS code for a good understanding and writing of the code;
-- getting information in real time by using APIs, API key and Postman after selected one city picked by a click from a dropdown list;;
+- modularization and organization of the JS code for a good understanding and clean writing;
+- getting information in real time by using APIs, API key and Postman after selected one city picked by a click from a dropdown list;
 - displaying information in real time for 5 day weather forecast, every 3 hours by chosing one city from a dropdown list.;
 - how to make data to persist after refreshing the web browser by using localStorage;
 - deploying the project on Netlify;
